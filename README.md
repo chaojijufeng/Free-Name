@@ -39,11 +39,6 @@ With over 200,000 domains already registered, DigitalPlat FreeDomain is a truste
 
 ---
 
-### ❔ FAQ
-
-Check [FAQ Page](./documents/domains/faq.md)
-
----
 
 ### 🤝 Join Our Community!
 
@@ -61,15 +56,3 @@ All donations are handled by The Hack Foundation and used strictly for nonprofit
 
 ---
 
-### ⏭️ What's next
-We might introduce more domain options and free hosting in the future to help as many people as possible! 
-
-**We can’t wait to see what you build!**
-
----
-
-### 🚨 Abuse Reporting
-We take domain name abuse seriously and are committed to maintaining a safer and more open internet. Every report is carefully reviewed, and response times may vary from a few hours to several days, depending on the complexity of the case.
-
-Email: abusereport@digitalplat.org
-Report Form: [Abuse Report Form](https://docs.google.com/forms/d/e/1FAIpQLSdCuhUBFynK4d2YZXptEhV4QHei9-FAk2WhKovrnZRx01lSIQ/viewform)
